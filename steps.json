@@ -65,14 +65,10 @@
     "keys": [{ "key": "end" }, { "key": ";" }]
   },
   {
-    "description": "Add a semicolon at the end of the fetch statement.",
-    "position": { "line": 3, "col": 37 },
-    "keys": [{ "key": "backspace" }, { "key": ";" }]
-  },
-  {
     "description": "Replace '.then((res) => {' with 'const json = await res.json();'.",
     "position": { "line": 3, "col": 3 },
     "keys": [
+      { "key": "arrowDown" },
       { "key": "home" },
       { "key": "delete" },
       { "key": "delete" },
