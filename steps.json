@@ -102,7 +102,10 @@
       { "key": "w" },
       { "key": "a" },
       { "key": "i" },
-      { "key": "t" }
+      { "key": "t" },
+      { "key": "end" },
+      { "key": "backspace" },
+      { "key": ";" }
     ]
   },
   {
@@ -111,7 +114,6 @@
     "keys": [
       { "key": "arrowDown" },
       { "key": "home" },
-      { "key": "backspace" },
       { "key": "backspace" },
       { "key": "r" },
       { "key": "e" },
@@ -178,7 +180,6 @@
     "keys": [
       { "key": "arrowDown" },
       { "key": "delete" },
-      { "key": "backspace" },
       { "key": "backspace" },
       { "key": "}" },
       { "key": " " },
