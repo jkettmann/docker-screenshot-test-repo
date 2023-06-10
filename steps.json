@@ -70,8 +70,7 @@
     "keys": [
       { "key": "arrowDown" },
       { "key": "home" },
-      { "key": "delete" },
-      { "key": "delete" },
+      { "key": "backspace" },
       { "key": "delete" },
       { "key": "delete" },
       { "key": "delete" },
