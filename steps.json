@@ -206,10 +206,9 @@
       { "key": "arrowDown" },
       { "key": "arrowDown" },
       { "key": "arrowDown" },
-      { "key": "arrowLeft" },
+      { "key": "backspace" },
       { "key": "backspace" },
       { "key": "arrowLeft" },
-      { "key": "backspace" },
       { "key": "backspace" }
     ]
   }
